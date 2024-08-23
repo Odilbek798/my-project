@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: white;
+    width: 100%;
+    height: 20%;
+}
+.logo{
+    display: flex;
+    align-items: center;
+    
+}
+.otdels{
+    display: flex;
+    gap: 20px;
+}
+.head{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+    padding: 20px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.container{
+    width: 100%;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont,
+     'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.card_block{
+    display: flex;
+    flex-direction: column;
+}
+.cards1{
+    display: flex;
+    gap: 20px;
+    padding-left: 150px;
+
+}
+.cards2{
+    display: flex;
+    gap: 20px;
+    padding-left: 150px;
+}
+.main{
+    h3{
+        display: flex;
+        justify-content: center;
+        font-size: 40px;
+        padding: 20px;
+        color: red;
+    }
+}
+.poisk_for{
+    display: flex;
+    justify-content: flex-end;
+    padding: 20px;
+}
+.poisk{
+    display: flex;
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 250px;
+    height: 50px;
+    padding: 10px;
+    justify-content: space-between;
+}
+.cards2{
+    padding-top:20px ;
+}
+
+.card1{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}.card2{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}.card3{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}.card4{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}.card5{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}.card6{
+    width:365px ;
+    border: 1px solid #000;
+    border-radius: 20px;
+    padding: 10px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+    padding-left: 200px;
+    h3{
+        padding: 60px;
+        padding-left: 400px;
+        font-size: 50px;
+    }
+}
+.gantel1{
+    display: flex;
+    padding: 30px;
+    p{
+        display: flex;
+        align-items: center;
+        font-size: 60px;
+        padding: 20px;
+    }
+}
+.gantel2{
+    display: flex;
+    padding: 30px;
+    p{
+        display: flex;
+        align-items: center;
+        font-size: 60px;
+        padding: 20px;
+    }
+}
+.gantel3{
+    display: flex;
+    padding: 30px;
+    p{
+        display: flex;
+        align-items: center;
+        font-size: 60px;
+        padding: 20px;
+    }
+}
+footer{
+    background-color: #fff;
+    color: rgb(11, 11, 11);
+    padding-left: 20px;
+    height: 80px;
+    width: 100%;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.sites{
+    padding: 20px;
+}
+.sites2{
+    padding-top: 10px;
+    padding: 10px;
+}
+.sitik{
+    width: 35px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+.sitelar{
+    display: flex;
+    padding-top:10px ;
+}
